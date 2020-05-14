@@ -1,0 +1,14 @@
+Bienvenue !
+
+Voici le code en JavaFX d'un jeu du pong par PAN Julien, qui se joue à deux personnes, 
+ou vous pouvez très bien y jouer seul avec vos deux mains !
+
+Commande :
+Barre gauche : Z (Haut), S(Bas).
+Barre droite : P (Haut), M(Bas).
+
+Vous pouvez maintenant commencer la partie en appuyant sur "Commencer !".
+
+Bon jeu à vous !
+
+
